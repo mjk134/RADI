@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>RADI Secure Browser</h1>
-  <h2>Powered by Cosmos Bots</h2>
+  <h4>Powered by Cosmos Bots</h4>
 
 Wexond Base is a modern web browser, built on top of modern web technologies such as `Electron` and `React`, that can also be used as a framework to create a custom web browser (see the [License](#license) section).
 
