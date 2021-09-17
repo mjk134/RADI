@@ -5,7 +5,7 @@
 <div align="center">
   <h1>RADI Secure Browser&nbsp;</h1>
 
-Wexond Base is a modern web browser, built on top of modern web technologies such as `Electron` and `React`, that can also be used as a framework to create a custom web browser (see the [License](#license) section).
+RADI is a custom browser designed to be very security whilst still keeping a clean UI.
 
 </div>
 
