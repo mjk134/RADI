@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <h1>RADI Browser</h1>
+  <h1>RADI Secure Browser</h1>
 
 [![Actions Status](https://github.com/wexond/desktop/workflows/Build/badge.svg)](https://github.com/wexond/desktop/actions)
 [![Downloads](https://img.shields.io/github/downloads/wexond/desktop/total.svg?style=flat-square)](https://wexond.net)
