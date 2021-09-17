@@ -5,7 +5,7 @@
 <div align="center">
   <h1>RADI Secure Browser&nbsp;</h1>
 
-RADI is a custom browser designed to be very security whilst still keeping a clean UI.
+RADI is a custom browser designed to be very secure whilst still keeping a clean UI.
 
 </div>
 
